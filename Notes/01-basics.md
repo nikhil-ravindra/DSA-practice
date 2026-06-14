@@ -46,9 +46,10 @@ int main(){
 using namespace std;
 
 int main(){
-    int x;
-    cin >>x;
-    cout<< "Value of x: " << x;
+    int x , y;
+    cin >>x >>y;
+    cout<< "Value of x: " << x << "Value of y:" << y;
     return 0;
 }
 ```
+
